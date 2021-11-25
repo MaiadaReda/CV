@@ -9,6 +9,7 @@ hr {
   border-top-style: dotted;
   border-color: grey;
   border-top-width: 1ex;
+  margin-left: 250px;
 }
 h1 {
   color: #DA7F8F;
@@ -21,8 +22,7 @@ h2 {
 a:visited{
   color: inherit;
 }
-ol{list-style-type: lower-latin;}
-ul{list-style-type: circle;}
+
 a:-webkit-any-link{
   color: #1F6F8B;
 }

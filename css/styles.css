@@ -1,0 +1,25 @@
+body {
+  background-color: #E1E5EA;
+}
+
+hr {
+  height: auto;
+  width:8%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-top-width: 1ex;
+}
+h1 {
+  color: #DA7F8F;
+
+}
+h3 {
+    color: #DA7F8F;
+}
+h2 {
+  color: #DA7F8F;
+}
+a:visited{
+  color: inherit;
+}

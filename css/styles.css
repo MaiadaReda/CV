@@ -14,12 +14,15 @@ h1 {
   color: #DA7F8F;
 
 }
-h3 {
-    color: #DA7F8F;
-}
+h3 {color: #1F6F8B;}
 h2 {
   color: #DA7F8F;
 }
 a:visited{
   color: inherit;
+}
+ol{list-style-type: lower-latin;}
+ul{list-style-type: circle;}
+a:-webkit-any-link{
+  color: #1F6F8B;
 }
